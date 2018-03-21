@@ -1,0 +1,29 @@
+.feature{width: 98%;
+}
+
+.feature h1{text-align: center;
+padding: 1em;
+font-size: 1.2em;
+font-weight: bold;
+}
+
+.feature h2 { font-size: 1em;
+	font-weight: bold;
+	padding: 2em;
+	text-align: center;
+}
+
+.feature p{ text-indent: 20px;
+	padding: 5px;
+ }
+
+ .feature img{width: 98%;
+ 	margin: auto;
+ 	display: block;
+ 	padding: 50px 2px 50px 2px;
+ 	box-sizing: border-box;
+ 	}
+
+.zetto{font-family: 'Slabo 27px', serif;
+}
+
