@@ -79,7 +79,12 @@
 margin: auto;
 }
 
-.vidbox img{padding: 22px;
-width: 24%;
+.vidbox img{padding: 1px;
+width: 22%;
 box-sizing: border-box;
-margin: auto}
+margin: 10px;
+box-shadow: 5px 5px 2px #888888;}
+
+.vidbox img:hover{ transform: scale(1.1);
+	box-shadow: 10px 10px 5px #888888;
+	transition: 1s;}
